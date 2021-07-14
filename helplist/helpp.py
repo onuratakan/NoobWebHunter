@@ -119,17 +119,7 @@ def infolist4():
     print(Fore.CYAN+"  **********************")
     time.sleep(0.1)
 
-    print(Fore.GREEN+"  [2]"+Fore.BLUE +
-          " - Drupal"+Fore.RED+" Coming Soon . . .")
-    print(Fore.CYAN+"  **********************")
-    time.sleep(0.1)
-
-    print(Fore.GREEN+"  [3]"+Fore.BLUE +
-          " - Joomla "+Fore.RED+" Coming Soon . . . ")
-    print(Fore.CYAN+"  **********************")
-    time.sleep(0.1)
-
-    print(Fore.GREEN+"  [4]"+Fore.BLUE+" - Back To Menu")
+    print(Fore.GREEN+"  [2]"+Fore.BLUE+" - Back To Menu")
 
     print(Fore.CYAN+"  **********************\n")
     time.sleep(0.1)
