@@ -16,6 +16,7 @@ except:
     pip3 install colorama
         """)
 
+
 # ------------------------------------------------
 
 try:
@@ -203,24 +204,8 @@ while True:
                 except:
                     print("\n")
                     sys.exit()
-        elif numcms == "2":
-            helpp.Banner()
-            print(Fore.RED+" [!]"+Fore.BLUE+" Coming Soon ! ")
-            try:
-                input(Fore.GREEN+" [*] Back To Menu (Press Enter...) ")
-            except:
-                print("")
-                sys.exit()
-        elif numcms == "3":
-            helpp.Banner()
-            print(Fore.RED+" [!]"+Fore.BLUE+" Coming Soon ! ")
-            try:
-                input(Fore.GREEN+" [*] Back To Menu (Press Enter...) ")
-            except:
-                print("")
-                sys.exit()
 
-        elif numcms == "4":
+        elif numcms == "2":
             try:
                 input(Fore.GREEN+" [*] Back To Menu (Press Enter...) ")
             except:
