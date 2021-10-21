@@ -1,2 +1,2 @@
 # NoobWebHunter
-Simple Tool Information Gathering Write By Python.
+Simple Tool Information Gathering Writen By Python.
