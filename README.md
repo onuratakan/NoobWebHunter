@@ -33,9 +33,9 @@ Simple Tool Information Gathering Writen By Python.
 </pre>
 
 ## Operating Systems Tested
-- Kali Linux 2020.1
-- Windows 10
-- Ubuntu 19.10
+- Kali Linux
+- Windows 10 & 11
+- Ubuntu 
 
 ## Install
 ```bash
