@@ -39,7 +39,7 @@ Simple Tool Information Gathering Writen By Python.
 
 ## Install
 ```bash
-git clone https://github.com/ultrasecurity/webkiller.git
+git clone https://github.com/Q0120S/NoobWebHunter.git
 cd webkiller
 pip3 install -r requirements.txt
 python3 webkiller.py 
