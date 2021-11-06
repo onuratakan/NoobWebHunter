@@ -40,7 +40,7 @@ Simple Tool Information Gathering Writen By Python.
 ## Install
 ```bash
 git clone https://github.com/Q0120S/NoobWebHunter.git
-cd webkiller
+cd NoobWebHunter
 pip3 install -r Requirements.txt
 python3 NoobWebHunter.py 
 ```
