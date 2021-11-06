@@ -1,7 +1,7 @@
 # NoobWebHunter
 Simple Tool Information Gathering Writen By Python.
 
-## PreView
+## Preview
 <pre>
 
  /$$   /$$                     /$$       /$$      /$$           /$$       /$$   /$$                       /$$                        
