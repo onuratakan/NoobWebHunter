@@ -1,5 +1,5 @@
 # NoobWebHunter
-Simple Tool Information Gathering Writen By Python.
+Simple Tool Information Gathering Written By Python.
 
 ## Preview
 <pre>
